@@ -1,0 +1,20 @@
+--2025-01-12 05:42:12--  https://www.dropbox.com/scl/fi/b8xymf44np28mpl0ahcie/mods.zip?rlkey=jtfr8oa4cpxeek1tdbb10rll9
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.6.18, 2620:100:601b:18::a27d:812
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.6.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc58d0e15e45a5612b23f51fa2a7.dl.dropboxusercontent.com/cd/0/inline/CiAbjRB03vt0BAEKM6ZwPCTj1XzkA09BybFjKQ50ra5C7NJiEBy5oPO3WPUb8sStsqfFDN2VVWnSjVEtvGk6HQpaqc8f3g6roDctKIGHwDpwy8jdTLGP6t5ZOm9xo8p6KBrci2OBoxNytypQD16VkQND/file# [following]
+--2025-01-12 05:42:13--  https://uc58d0e15e45a5612b23f51fa2a7.dl.dropboxusercontent.com/cd/0/inline/CiAbjRB03vt0BAEKM6ZwPCTj1XzkA09BybFjKQ50ra5C7NJiEBy5oPO3WPUb8sStsqfFDN2VVWnSjVEtvGk6HQpaqc8f3g6roDctKIGHwDpwy8jdTLGP6t5ZOm9xo8p6KBrci2OBoxNytypQD16VkQND/file
+Resolving uc58d0e15e45a5612b23f51fa2a7.dl.dropboxusercontent.com (uc58d0e15e45a5612b23f51fa2a7.dl.dropboxusercontent.com)... 162.125.6.15, 2620:100:601c:15::a27d:60f
+Connecting to uc58d0e15e45a5612b23f51fa2a7.dl.dropboxusercontent.com (uc58d0e15e45a5612b23f51fa2a7.dl.dropboxusercontent.com)|162.125.6.15|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /cd/0/inline2/CiD2aQ7iRegGqvcPmrV29yD3jGO4RbyNB4p30QqeQtEV4etC3h2aMOOLLbD-wYgJ47GaKEeEIW2uxEE9ZcuC5GMoPNmGfWiqRhYBZOOwfNMOUYonlIyj_ktbBjdAEyDS1BrUv1iOrXziQoFRFJ1OtavbroOxTMnwnwE5tifzkeN7wMv_lrXT1ngRTuvgsbhPMWsu6hJOA4UsZ_zlu6J6-iqEi1izvVGNKamoaDy7UWVymdxYniEKVOhfsyjAH8_wBR9spgg0cgu2vuOFxIZgESetvCbR4nWiTp4fIJXUlzNSSMzzKbrITKqpWGnOhKTQorgw1jb6P_JWGCHWTGsYkVPX_zV_gauQfGi8UHAsaSMtoWtQZWjkdO3cIFj-11GPDNU/file [following]
+--2025-01-12 05:42:13--  https://uc58d0e15e45a5612b23f51fa2a7.dl.dropboxusercontent.com/cd/0/inline2/CiD2aQ7iRegGqvcPmrV29yD3jGO4RbyNB4p30QqeQtEV4etC3h2aMOOLLbD-wYgJ47GaKEeEIW2uxEE9ZcuC5GMoPNmGfWiqRhYBZOOwfNMOUYonlIyj_ktbBjdAEyDS1BrUv1iOrXziQoFRFJ1OtavbroOxTMnwnwE5tifzkeN7wMv_lrXT1ngRTuvgsbhPMWsu6hJOA4UsZ_zlu6J6-iqEi1izvVGNKamoaDy7UWVymdxYniEKVOhfsyjAH8_wBR9spgg0cgu2vuOFxIZgESetvCbR4nWiTp4fIJXUlzNSSMzzKbrITKqpWGnOhKTQorgw1jb6P_JWGCHWTGsYkVPX_zV_gauQfGi8UHAsaSMtoWtQZWjkdO3cIFj-11GPDNU/file
+Reusing existing connection to uc58d0e15e45a5612b23f51fa2a7.dl.dropboxusercontent.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 212825250 (203M) [application/zip]
+Saving to: ‘mods.zip?rlkey=jtfr8oa4cpxeek1tdbb10rll9’
+
+              mods.zip?rlkey   0%[                                               ]       0  --.-KB/s                            mods.zip?rlkey=  14%[=====>                                         ]  30.16M   151MB/s                           mods.zip?rlkey=j  28%[============>                                  ]  57.63M   144MB/s                          mods.zip?rlkey=jt  33%[==============>                                ]  68.01M  95.0MB/s                         mods.zip?rlkey=jtf  53%[========================>                      ] 108.21M   118MB/s                        mods.zip?rlkey=jtfr  71%[================================>              ] 145.38M   130MB/s                       mods.zip?rlkey=jtfr8  93%[==========================================>    ] 189.71M   144MB/s               mods.zip?rlkey=jtfr8oa4cpxee 100%[==============================================>] 202.97M   148MB/s    in 1.4s    
+
+2025-01-12 05:42:15 (148 MB/s) - ‘mods.zip?rlkey=jtfr8oa4cpxeek1tdbb10rll9’ saved [212825250/212825250]
+
