@@ -65,12 +65,6 @@
     },
     "done": true
   },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2025-01-13 19:26:44 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-01-13 19:26:40 +0000"
@@ -101,23 +95,11 @@
     },
     "done": true
   },
-  "lootr:root": {
-    "criteria": {
-      "always_true": "2025-01-13 19:26:44 +0000"
-    },
-    "done": true
-  },
   "pointblank:recipes/misc/printer": {
     "criteria": {
       "has_recipe": "2025-01-13 19:26:40 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:savanna": "2025-01-13 19:26:46 +0000"
-    },
-    "done": false
   },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
@@ -230,6 +212,99 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-01-13 19:26:40 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-01-13 19:26:44 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-01-13 19:26:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-01-13 21:31:25 +0000",
+      "minecraft:river": "2025-01-13 21:33:34 +0000",
+      "minecraft:savanna": "2025-01-13 19:26:46 +0000",
+      "minecraft:plains": "2025-01-13 21:37:08 +0000"
+    },
+    "done": false
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-01-13 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-13 21:37:45 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-01-13 21:32:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie_villager": "2025-01-13 21:37:45 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-01-13 21:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-13 21:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie_villager": "2025-01-13 21:37:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-13 21:37:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-01-13 21:30:37 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tame_elephant": {
+    "criteria": {
+      "tame": "2025-01-13 21:31:10 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-01-13 21:32:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-13 21:32:37 +0000"
     },
     "done": true
   },
