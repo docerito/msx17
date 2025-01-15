@@ -728,3 +728,53 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [15Jan2025 17:08:00.688] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6d24691d[id=<null>,name=TheFernet,properties={},legacy=false] (/127.83.237.193:57371) lost connection: Disconnected
 [15Jan2025 17:08:24.999] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheFernet is 2016efbe-18cb-464e-be52-d65425f43628
 [15Jan2025 17:08:25.540] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@36db9853[id=2016efbe-18cb-464e-be52-d65425f43628,name=TheFernet,properties={textures=[com.mojang.authlib.properties.Property@296ed80c]},legacy=false] (/127.83.237.193:59683) lost connection: Disconnected
+[15Jan2025 17:09:32.939] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14fdf4f3[id=<null>,name=TheFernet,properties={},legacy=false] (/127.83.237.193:33645) lost connection: Disconnected
+[15Jan2025 17:09:47.238] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@586ec90e[id=<null>,name=TheFernet,properties={},legacy=false] (/127.83.237.193:51315) lost connection: Disconnected
+[15Jan2025 17:14:06.618] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player d0ce3_ is 31a6d88a-5eb6-45ac-9a23-e0ff6e3af8ad
+[15Jan2025 17:14:12.724] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: d0ce3_[/127.185.83.129:60639] logged in with entity id 150 at (-377.4313520631922, 66.0, -376.69145738128765)
+[15Jan2025 17:14:12.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ joined the game
+[15Jan2025 17:14:12.868] [Server thread/INFO] [Jade/]: Syncing config to d0ce3_ (31a6d88a-5eb6-45ac-9a23-e0ff6e3af8ad)
+[15Jan2025 17:14:15.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2992ms or 59 ticks behind
+[15Jan2025 17:14:17.127] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_on_stelts but it was marked as removed already
+[15Jan2025 17:14:31.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> asd
+[15Jan2025 17:14:56.140] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[15Jan2025 17:15:00.444] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_doctor but it was marked as removed already
+[15Jan2025 17:15:09.591] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:pool_tube_zombie but it was marked as removed already
+[15Jan2025 17:15:11.720] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: d0ce3_ lost connection: Disconnected
+[15Jan2025 17:15:11.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ left the game
+[15Jan2025 17:15:47.640] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@21482cfc[id=<null>,name=d0ce3_,properties={},legacy=false] (/127.185.83.129:34409) lost connection: Disconnected
+[15Jan2025 17:15:54.901] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player d0ce3_ is 31a6d88a-5eb6-45ac-9a23-e0ff6e3af8ad
+[15Jan2025 17:16:01.174] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: d0ce3_[/127.185.83.129:37893] logged in with entity id 933 at (-377.4313520631922, 66.0, -376.69145738128765)
+[15Jan2025 17:16:01.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ joined the game
+[15Jan2025 17:16:01.220] [Server thread/INFO] [Jade/]: Syncing config to d0ce3_ (31a6d88a-5eb6-45ac-9a23-e0ff6e3af8ad)
+[15Jan2025 17:16:12.340] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_cook but it was marked as removed already
+[15Jan2025 17:16:14.790] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:sleepy_zombie but it was marked as removed already
+[15Jan2025 17:16:19.642] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[15Jan2025 17:16:19.643] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[15Jan2025 17:16:26.439] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_cook but it was marked as removed already
+[15Jan2025 17:16:31.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: d0ce3_ lost connection: Timed out
+[15Jan2025 17:16:31.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ left the game
+[15Jan2025 17:18:31.011] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TheFernet is 2016efbe-18cb-464e-be52-d65425f43628
+[15Jan2025 17:18:37.192] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheFernet[/127.83.237.193:47151] logged in with entity id 1065 at (-124.5, 70.0, 8.5)
+[15Jan2025 17:18:37.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet joined the game
+[15Jan2025 17:18:37.271] [Server thread/INFO] [Jade/]: Syncing config to TheFernet (2016efbe-18cb-464e-be52-d65425f43628)
+[15Jan2025 17:18:37.471] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_horseman but it was marked as removed already
+[15Jan2025 17:18:37.474] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_lumberjack but it was marked as removed already
+[15Jan2025 17:18:37.475] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_lumberjack but it was marked as removed already
+[15Jan2025 17:18:37.500] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:baseball_bat_zombie but it was marked as removed already
+[15Jan2025 17:18:37.500] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:baseball_bat_zombie but it was marked as removed already
+[15Jan2025 17:18:37.525] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_scientist but it was marked as removed already
+[15Jan2025 17:18:37.564] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:beehive_zombie but it was marked as removed already
+[15Jan2025 17:18:37.736] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[15Jan2025 17:18:37.738] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[15Jan2025 17:18:37.793] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:door_zombie but it was marked as removed already
+[15Jan2025 17:18:37.793] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:door_zombie but it was marked as removed already
+[15Jan2025 17:18:37.794] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_lumberjack but it was marked as removed already
+[15Jan2025 17:18:37.909] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_farmer but it was marked as removed already
+[15Jan2025 17:18:38.195] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[15Jan2025 17:18:38.270] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_boxer but it was marked as removed already
+[15Jan2025 17:18:38.540] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:barrel_zombie but it was marked as removed already
+[15Jan2025 17:18:38.643] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[15Jan2025 17:18:38.740] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_police but it was marked as removed already
+[15Jan2025 17:18:38.741] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_police but it was marked as removed already
+[15Jan2025 17:18:38.741] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already

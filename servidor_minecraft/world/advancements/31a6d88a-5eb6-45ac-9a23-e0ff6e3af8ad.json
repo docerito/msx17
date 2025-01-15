@@ -236,33 +236,9 @@
     },
     "done": false
   },
-  "lootr:1chest": {
+  "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
-      "opened_chest": "2025-01-13 21:32:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-01-13 21:37:45 +0000"
-    },
-    "done": true
-  },
-  "lootr:social": {
-    "criteria": {
-      "opened_chest": "2025-01-13 21:32:35 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:zombie_villager": "2025-01-13 21:37:45 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:adventure/way_sign": {
-    "criteria": {
-      "bastion": "2025-01-13 21:35:53 +0000"
+      "acacia_blossom": "2025-01-13 21:30:37 +0000"
     },
     "done": true
   },
@@ -272,29 +248,23 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:zombie_villager": "2025-01-13 21:37:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-01-13 21:37:24 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/acacia_blossom": {
-    "criteria": {
-      "acacia_blossom": "2025-01-13 21:30:37 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/tame_elephant": {
     "criteria": {
       "tame": "2025-01-13 21:31:10 +0000"
     },
     "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-01-13 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-01-13 21:32:35 +0000"
+    },
+    "done": false
   },
   "immersive_aircraft:misc/aircraftery": {
     "criteria": {
@@ -305,6 +275,36 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-01-13 21:32:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-01-13 21:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-13 21:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-13 21:37:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie_villager": "2025-01-13 21:37:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie_villager": "2025-01-13 21:37:45 +0000"
     },
     "done": true
   },
