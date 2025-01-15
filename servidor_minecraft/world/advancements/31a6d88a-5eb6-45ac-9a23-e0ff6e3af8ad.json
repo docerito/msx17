@@ -230,6 +230,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-01-13 21:31:25 +0000",
+      "minecraft:sparse_jungle": "2025-01-15 21:00:04 +0000",
       "minecraft:river": "2025-01-13 21:33:34 +0000",
       "minecraft:savanna": "2025-01-13 19:26:46 +0000",
       "minecraft:plains": "2025-01-13 21:37:08 +0000"
@@ -305,6 +306,81 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie_villager": "2025-01-13 21:37:45 +0000"
+    },
+    "done": true
+  },
+  "infectious:i_dont_feel_so_good": {
+    "criteria": {
+      "i_dont_feel_so_good": "2025-01-15 21:03:58 +0000"
+    },
+    "done": true
+  },
+  "infectious:sign_the_contract_big_boy": {
+    "criteria": {
+      "sign_the_contract_big_boy": "2025-01-15 21:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-15 21:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-15 20:58:37 +0000"
+    },
+    "done": true
+  },
+  "infectious:ride_or_die": {
+    "criteria": {
+      "ride_or_die": "2025-01-15 21:03:54 +0000"
+    },
+    "done": true
+  },
+  "infectious:bon_appetit": {
+    "criteria": {
+      "bon_appetit": "2025-01-15 21:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-01-15 21:08:11 +0000",
+      "rotten_flesh": "2025-01-15 21:06:55 +0000",
+      "melon_slice": "2025-01-15 21:00:39 +0000",
+      "cooked_chicken": "2025-01-15 21:15:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-15 21:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-15 21:00:39 +0000"
+    },
+    "done": true
+  },
+  "infectious:braaaaaains": {
+    "criteria": {
+      "braaaaaains": "2025-01-15 20:59:13 +0000"
+    },
+    "done": true
+  },
+  "infectious:infectious_advancement": {
+    "criteria": {
+      "infectious_advancement": "2025-01-15 20:59:13 +0000"
+    },
+    "done": true
+  },
+  "infectious:bucket_list": {
+    "criteria": {
+      "bucket_list": "2025-01-15 21:00:35 +0000"
     },
     "done": true
   },
