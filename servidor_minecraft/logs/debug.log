@@ -20862,3 +20862,246 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17Jan2025 22:13:14.926] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:beehive_zombie but it was marked as removed already
 [17Jan2025 22:13:16.226] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_wolf but it was marked as removed already
 [17Jan2025 22:13:21.825] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:muscular_zombie but it was marked as removed already
+[17Jan2025 22:13:45.376] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:baseball_bat_zombie but it was marked as removed already
+[17Jan2025 22:13:49.978] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_doctor but it was marked as removed already
+[17Jan2025 22:13:51.876] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_boar but it was marked as removed already
+[17Jan2025 22:14:18.675] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[17Jan2025 22:14:20.826] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_fisherman but it was marked as removed already
+[17Jan2025 22:14:20.827] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_fisherman but it was marked as removed already
+[17Jan2025 22:14:20.827] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_fisherman but it was marked as removed already
+[17Jan2025 22:14:31.527] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_lumberjack but it was marked as removed already
+[17Jan2025 22:14:37.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> asddad
+[17Jan2025 22:14:39.177] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:pylon_zombie but it was marked as removed already
+[17Jan2025 22:14:39.178] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:pylon_zombie but it was marked as removed already
+[17Jan2025 22:14:39.178] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:firework_zombie but it was marked as removed already
+[17Jan2025 22:14:39.875] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_painter but it was marked as removed already
+[17Jan2025 22:14:40.725] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:pylon_zombie but it was marked as removed already
+[17Jan2025 22:14:44.926] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:baseball_bat_zombie but it was marked as removed already
+[17Jan2025 22:14:44.926] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:baseball_bat_zombie but it was marked as removed already
+[17Jan2025 22:15:11.726] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_wolf but it was marked as removed already
+[17Jan2025 22:15:12.475] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_police but it was marked as removed already
+[17Jan2025 22:15:12.476] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_police but it was marked as removed already
+[17Jan2025 22:15:12.526] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_fisherman but it was marked as removed already
+[17Jan2025 22:15:14.277] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_police but it was marked as removed already
+[17Jan2025 22:15:14.277] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_police but it was marked as removed already
+[17Jan2025 22:15:15.896] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-107
+[17Jan2025 22:15:15.896] [IO-Worker-105/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
+[17Jan2025 22:15:16.376] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_painter but it was marked as removed already
+[17Jan2025 22:15:20.426] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:bouncer_zombie but it was marked as removed already
+[17Jan2025 22:15:20.426] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:bouncer_zombie but it was marked as removed already
+[17Jan2025 22:15:24.676] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:pool_tube_zombie but it was marked as removed already
+[17Jan2025 22:15:25.277] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:swat_zombie but it was marked as removed already
+[17Jan2025 22:15:25.927] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_bird but it was marked as removed already
+[17Jan2025 22:15:25.928] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_bird but it was marked as removed already
+[17Jan2025 22:15:25.928] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_bird but it was marked as removed already
+[17Jan2025 22:15:25.928] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_bird but it was marked as removed already
+[17Jan2025 22:15:26.127] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_scientist but it was marked as removed already
+[17Jan2025 22:15:26.128] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_scientist but it was marked as removed already
+[17Jan2025 22:15:26.178] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[17Jan2025 22:15:26.178] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:swat_zombie but it was marked as removed already
+[17Jan2025 22:15:27.089] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:balloon_zombie but it was marked as removed already
+[17Jan2025 22:15:27.090] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:balloon_zombie but it was marked as removed already
+[17Jan2025 22:15:27.090] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:balloon_zombie but it was marked as removed already
+[17Jan2025 22:15:27.157] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:pumpkin_zombie but it was marked as removed already
+[17Jan2025 22:15:39.027] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_police but it was marked as removed already
+[17Jan2025 22:15:39.027] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_astronaut but it was marked as removed already
+[17Jan2025 22:15:39.027] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_astronaut but it was marked as removed already
+[17Jan2025 22:15:39.027] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_scientist but it was marked as removed already
+[17Jan2025 22:15:39.077] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:sleepy_zombie but it was marked as removed already
+[17Jan2025 22:15:39.078] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:sleepy_zombie but it was marked as removed already
+[17Jan2025 22:15:40.177] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_fisherman but it was marked as removed already
+[17Jan2025 22:15:40.178] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_fisherman but it was marked as removed already
+[17Jan2025 22:15:40.226] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:barrel_zombie but it was marked as removed already
+[17Jan2025 22:15:44.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> jaun tpo
+[17Jan2025 22:15:50.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> juan tp
+[17Jan2025 22:15:52.777] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:muscular_zombie but it was marked as removed already
+[17Jan2025 22:15:58.076] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:firework_zombie but it was marked as removed already
+[17Jan2025 22:16:00.626] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_boar but it was marked as removed already
+[17Jan2025 22:16:09.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> tenemos visita
+[17Jan2025 22:16:12.227] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:balloon_zombie but it was marked as removed already
+[17Jan2025 22:16:12.279] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:pool_tube_zombie but it was marked as removed already
+[17Jan2025 22:16:12.279] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:pool_tube_zombie but it was marked as removed already
+[17Jan2025 22:16:18.177] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_police but it was marked as removed already
+[17Jan2025 22:16:18.227] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:bouncer_zombie but it was marked as removed already
+[17Jan2025 22:16:18.228] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:muscular_zombie but it was marked as removed already
+[17Jan2025 22:16:19.028] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_police but it was marked as removed already
+[17Jan2025 22:16:19.029] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_police but it was marked as removed already
+[17Jan2025 22:16:19.078] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_astronaut but it was marked as removed already
+[17Jan2025 22:16:19.078] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_astronaut but it was marked as removed already
+[17Jan2025 22:16:19.078] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_astronaut but it was marked as removed already
+[17Jan2025 22:16:19.078] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_astronaut but it was marked as removed already
+[17Jan2025 22:16:19.777] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:muscular_zombie but it was marked as removed already
+[17Jan2025 22:16:22.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> donde
+[17Jan2025 22:16:25.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> tenemos visita
+[17Jan2025 22:16:26.175] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:bouncer_zombie but it was marked as removed already
+[17Jan2025 22:16:26.176] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:bouncer_zombie but it was marked as removed already
+[17Jan2025 22:16:28.926] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:barrel_zombie but it was marked as removed already
+[17Jan2025 22:16:30.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> acepta
+[17Jan2025 22:16:32.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> tp
+[17Jan2025 22:16:38.340] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@3b8386ff]Trying to start horde event on day 20 with nextDay 20 and time 18000
+[17Jan2025 22:16:38.343] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@528a3faf
+[17Jan2025 22:16:38.345] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[17Jan2025 22:16:38.345] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[17Jan2025 22:16:38.390] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[17Jan2025 22:16:38.391] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[17Jan2025 22:16:38.391] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[17Jan2025 22:16:38.391] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[17Jan2025 22:16:45.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> bue
+[17Jan2025 22:16:49.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> qie es eso
+[17Jan2025 22:16:54.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> acuepta
+[17Jan2025 22:16:56.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> acuetpaaa
+[17Jan2025 22:16:59.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> juaan acepta
+[17Jan2025 22:17:02.878] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:psycho_zombie but it was marked as removed already
+[17Jan2025 22:17:06.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> mandaaa
+[17Jan2025 22:17:07.777] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_painter but it was marked as removed already
+[17Jan2025 22:17:07.777] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_painter but it was marked as removed already
+[17Jan2025 22:17:12.517] [IO-Worker-105/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[17Jan2025 22:17:12.539] [IO-Worker-107/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[17Jan2025 22:17:13.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> leprechauuu
+[17Jan2025 22:17:13.227] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:robotic_zombie but it was marked as removed already
+[17Jan2025 22:17:17.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> orda ordaaa
+[17Jan2025 22:17:26.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 22:17:26.259] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 22:17:28.388] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[17Jan2025 22:17:28.388] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[17Jan2025 22:17:28.389] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[17Jan2025 22:17:28.389] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[17Jan2025 22:17:31.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> veni
+[17Jan2025 22:17:38.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> cuidado
+[17Jan2025 22:17:55.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> veni para atras
+[17Jan2025 22:17:59.477] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:barrel_zombie but it was marked as removed already
+[17Jan2025 22:17:59.526] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_scientist but it was marked as removed already
+[17Jan2025 22:18:02.277] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:robotic_zombie but it was marked as removed already
+[17Jan2025 22:18:06.525] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_doctor but it was marked as removed already
+[17Jan2025 22:18:06.526] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:pool_tube_zombie but it was marked as removed already
+[17Jan2025 22:18:06.526] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[17Jan2025 22:18:06.526] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[17Jan2025 22:18:18.394] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[17Jan2025 22:18:18.394] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[17Jan2025 22:18:18.394] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[17Jan2025 22:18:18.395] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[17Jan2025 22:18:39.076] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:barrel_zombie but it was marked as removed already
+[17Jan2025 22:18:39.077] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:barrel_zombie but it was marked as removed already
+[17Jan2025 22:18:39.077] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:barrel_zombie but it was marked as removed already
+[17Jan2025 22:18:39.077] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[17Jan2025 22:18:44.026] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_doctor but it was marked as removed already
+[17Jan2025 22:18:44.026] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_doctor but it was marked as removed already
+[17Jan2025 22:18:44.576] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_boxer but it was marked as removed already
+[17Jan2025 22:18:44.627] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:beekeeper_zombie but it was marked as removed already
+[17Jan2025 22:18:44.627] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:beekeeper_zombie but it was marked as removed already
+[17Jan2025 22:18:44.627] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:beekeeper_zombie but it was marked as removed already
+[17Jan2025 22:18:47.976] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:angry_zombie but it was marked as removed already
+[17Jan2025 22:18:48.276] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_doctor but it was marked as removed already
+[17Jan2025 22:18:48.276] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_doctor but it was marked as removed already
+[17Jan2025 22:18:48.276] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:bouncer_zombie but it was marked as removed already
+[17Jan2025 22:18:48.276] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:bouncer_zombie but it was marked as removed already
+[17Jan2025 22:18:50.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> creeper
+[17Jan2025 22:18:52.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> cuidado
+[17Jan2025 22:18:53.527] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_lumberjack but it was marked as removed already
+[17Jan2025 22:19:08.389] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[17Jan2025 22:19:08.389] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[17Jan2025 22:19:08.389] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[17Jan2025 22:19:08.389] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[17Jan2025 22:19:29.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> juan matate
+[17Jan2025 22:19:38.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet was slain by d0ce3_
+[17Jan2025 22:19:39.694] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1737152379689
+[17Jan2025 22:19:43.212] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['TheFernet'/67327, l='ServerLevel[world]', x=171.70, y=76.00, z=733.70] died: Zombie Player was slain by d0ce3_
+[17Jan2025 22:19:44.527] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_boxer but it was marked as removed already
+[17Jan2025 22:19:44.528] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[17Jan2025 22:19:44.528] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[17Jan2025 22:19:53.177] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_wolf but it was marked as removed already
+[17Jan2025 22:19:54.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> asd
+[17Jan2025 22:19:58.400] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[17Jan2025 22:19:58.400] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[17Jan2025 22:19:58.400] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[17Jan2025 22:19:58.401] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[17Jan2025 22:20:17.440] [IO-Worker-110/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[17Jan2025 22:20:28.626] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:pumpkin_zombie but it was marked as removed already
+[17Jan2025 22:20:28.626] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:pylon_zombie but it was marked as removed already
+[17Jan2025 22:20:28.626] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:pylon_zombie but it was marked as removed already
+[17Jan2025 22:20:28.626] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:pylon_zombie but it was marked as removed already
+[17Jan2025 22:20:32.626] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_farmer but it was marked as removed already
+[17Jan2025 22:20:35.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> no tenes bala
+[17Jan2025 22:20:38.178] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_astronaut but it was marked as removed already
+[17Jan2025 22:20:46.826] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:angry_zombie but it was marked as removed already
+[17Jan2025 22:20:48.395] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[17Jan2025 22:20:48.396] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[17Jan2025 22:20:48.396] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[17Jan2025 22:20:48.396] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[17Jan2025 22:20:56.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> crepe
+[17Jan2025 22:21:27.527] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:baseball_bat_zombie but it was marked as removed already
+[17Jan2025 22:21:27.528] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:baseball_bat_zombie but it was marked as removed already
+[17Jan2025 22:21:28.376] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_cook but it was marked as removed already
+[17Jan2025 22:21:31.877] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:baseball_bat_zombie but it was marked as removed already
+[17Jan2025 22:21:33.877] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_boxer but it was marked as removed already
+[17Jan2025 22:21:34.377] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:football_player_zombie but it was marked as removed already
+[17Jan2025 22:21:34.378] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:football_player_zombie but it was marked as removed already
+[17Jan2025 22:21:34.378] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_doctor but it was marked as removed already
+[17Jan2025 22:21:34.727] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:pumpkin_zombie but it was marked as removed already
+[17Jan2025 22:21:35.227] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[17Jan2025 22:21:35.576] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_wolf but it was marked as removed already
+[17Jan2025 22:21:35.577] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_wolf but it was marked as removed already
+[17Jan2025 22:21:35.827] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:door_zombie but it was marked as removed already
+[17Jan2025 22:21:37.427] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:door_zombie but it was marked as removed already
+[17Jan2025 22:21:37.826] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_police but it was marked as removed already
+[17Jan2025 22:21:37.827] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_police but it was marked as removed already
+[17Jan2025 22:21:38.426] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_astronaut but it was marked as removed already
+[17Jan2025 22:21:38.477] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:pool_tube_zombie but it was marked as removed already
+[17Jan2025 22:21:57.677] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:football_player_zombie but it was marked as removed already
+[17Jan2025 22:21:58.227] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:baseball_bat_zombie but it was marked as removed already
+[17Jan2025 22:22:01.026] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:balloon_zombie but it was marked as removed already
+[17Jan2025 22:22:01.077] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:sleepy_zombie but it was marked as removed already
+[17Jan2025 22:22:01.078] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:sleepy_zombie but it was marked as removed already
+[17Jan2025 22:22:01.078] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:sleepy_zombie but it was marked as removed already
+[17Jan2025 22:22:02.626] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:beekeeper_zombie but it was marked as removed already
+[17Jan2025 22:22:05.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> no uses el fuego
+[17Jan2025 22:22:07.626] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:sleepy_zombie but it was marked as removed already
+[17Jan2025 22:22:08.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> por el loot
+[17Jan2025 22:22:13.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> pedazo de bolastriste
+[17Jan2025 22:22:14.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> bueno
+[17Jan2025 22:22:15.827] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:disco_zombie but it was marked as removed already
+[17Jan2025 22:22:17.927] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:sleepy_zombie but it was marked as removed already
+[17Jan2025 22:22:17.927] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:sleepy_zombie but it was marked as removed already
+[17Jan2025 22:22:17.927] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_cook but it was marked as removed already
+[17Jan2025 22:22:17.927] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_cook but it was marked as removed already
+[17Jan2025 22:22:17.976] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:construction_worker_zombie but it was marked as removed already
+[17Jan2025 22:22:17.976] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:bouncer_zombie but it was marked as removed already
+[17Jan2025 22:22:17.976] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:bouncer_zombie but it was marked as removed already
+[17Jan2025 22:22:17.976] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:bouncer_zombie but it was marked as removed already
+[17Jan2025 22:22:18.078] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_fisherman but it was marked as removed already
+[17Jan2025 22:22:22.376] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:pool_tube_zombie but it was marked as removed already
+[17Jan2025 22:22:22.527] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:barrel_zombie but it was marked as removed already
+[17Jan2025 22:22:22.528] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_on_stelts but it was marked as removed already
+[17Jan2025 22:22:22.576] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_painter but it was marked as removed already
+[17Jan2025 22:22:22.726] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:football_player_zombie but it was marked as removed already
+[17Jan2025 22:22:26.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 22:22:26.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 22:22:28.326] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:firework_zombie but it was marked as removed already
+[17Jan2025 22:22:28.326] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:firework_zombie but it was marked as removed already
+[17Jan2025 22:22:28.327] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_lumberjack but it was marked as removed already
+[17Jan2025 22:22:44.777] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:beekeeper_zombie but it was marked as removed already
+[17Jan2025 22:22:48.376] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_astronaut but it was marked as removed already
+[17Jan2025 22:22:49.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> asd
+[17Jan2025 22:22:56.777] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:beekeeper_zombie but it was marked as removed already
+[17Jan2025 22:22:56.778] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:beekeeper_zombie but it was marked as removed already
+[17Jan2025 22:22:56.778] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:beekeeper_zombie but it was marked as removed already
+[17Jan2025 22:22:56.778] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:beekeeper_zombie but it was marked as removed already
+[17Jan2025 22:23:00.777] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:construction_worker_zombie but it was marked as removed already
+[17Jan2025 22:23:01.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> host del orto
+[17Jan2025 22:23:03.627] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_fisherman but it was marked as removed already
+[17Jan2025 22:23:05.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> todo lag
+[17Jan2025 22:23:07.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> ya se fueron
+[17Jan2025 22:23:13.228] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_astronaut but it was marked as removed already
+[17Jan2025 22:23:21.776] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:barrel_zombie but it was marked as removed already
+[17Jan2025 22:23:22.877] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:muscular_zombie but it was marked as removed already
+[17Jan2025 22:23:23.627] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:pylon_zombie but it was marked as removed already
+[17Jan2025 22:23:28.677] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:barrel_zombie but it was marked as removed already
+[17Jan2025 22:23:28.678] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:barrel_zombie but it was marked as removed already
+[17Jan2025 22:23:28.776] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:pylon_zombie but it was marked as removed already
+[17Jan2025 22:23:33.877] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[17Jan2025 22:23:33.877] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[17Jan2025 22:23:33.926] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_painter but it was marked as removed already
+[17Jan2025 22:23:33.927] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_painter but it was marked as removed already
+[17Jan2025 22:23:33.975] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_agent but it was marked as removed already
+[17Jan2025 22:23:34.026] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_bird but it was marked as removed already
+[17Jan2025 22:23:34.077] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:beehive_zombie but it was marked as removed already
