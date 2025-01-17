@@ -319,6 +319,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-01-17 21:03:26 +0000",
       "opened_chest": "2025-01-16 19:29:00 +0000"
     },
     "done": false
@@ -554,6 +555,30 @@
   "infectious:youre_walking_on_danger": {
     "criteria": {
       "youre_walking_on_danger": "2025-01-17 20:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-01-17 21:06:22 +0000"
+    },
+    "done": true
+  },
+  "infectious:why_so_serious": {
+    "criteria": {
+      "why_so_serious": "2025-01-17 21:05:54 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-01-17 21:03:23 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-01-17 21:03:26 +0000"
     },
     "done": true
   },
