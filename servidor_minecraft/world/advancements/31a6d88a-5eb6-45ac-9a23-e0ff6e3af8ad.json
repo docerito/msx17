@@ -591,5 +591,11 @@
     },
     "done": true
   },
+  "infectious:sign_the_contract_big_boy": {
+    "criteria": {
+      "sign_the_contract_big_boy": "2025-01-18 17:27:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

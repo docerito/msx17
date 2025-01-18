@@ -16085,3 +16085,312 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18Jan2025 17:25:54.708] [Server thread/DEBUG] [pointblank/]: 54708 obtained hit results
 [18Jan2025 17:25:54.708] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@25ab2f47
 [18Jan2025 17:25:54.710] [Server thread/DEBUG] [pointblank/]: ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=179.27, y=70.00, z=784.43] sends hit scan notification to ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=179.27, y=70.00, z=784.43]
+[18Jan2025 17:25:57.530] [Server thread/DEBUG] [pointblank/]: 57530 handling client fire request
+[18Jan2025 17:25:57.530] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 924291488 to 2
+[18Jan2025 17:25:57.530] [Server thread/DEBUG] [pointblank/]: 57530 - obtained hit result in 0ms
+[18Jan2025 17:25:57.530] [Server thread/DEBUG] [pointblank/]: 57530 obtained hit results
+[18Jan2025 17:25:57.531] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@b0e04c0
+[18Jan2025 17:25:57.532] [Server thread/DEBUG] [pointblank/]: ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=179.27, y=70.00, z=784.43] sends hit scan notification to ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=179.27, y=70.00, z=784.43]
+[18Jan2025 17:25:59.676] [Server thread/DEBUG] [pointblank/]: 59676 handling client fire request
+[18Jan2025 17:25:59.676] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 924291488 to 1
+[18Jan2025 17:25:59.676] [Server thread/DEBUG] [pointblank/]: 59676 - obtained hit result in 0ms
+[18Jan2025 17:25:59.676] [Server thread/DEBUG] [pointblank/]: 59676 obtained hit results
+[18Jan2025 17:25:59.676] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@559a5f7c
+[18Jan2025 17:25:59.678] [Server thread/DEBUG] [pointblank/]: ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=179.27, y=70.00, z=784.43] sends hit scan notification to ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=179.27, y=70.00, z=784.43]
+[18Jan2025 17:26:03.077] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 924291488 to 8
+[18Jan2025 17:26:08.494] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_boar but it was marked as removed already
+[18Jan2025 17:26:08.494] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_boar but it was marked as removed already
+[18Jan2025 17:26:17.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:bouncer_zombie but it was marked as removed already
+[18Jan2025 17:26:17.681] [IO-Worker-17/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[18Jan2025 17:26:17.681] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[18Jan2025 17:26:17.681] [IO-Worker-24/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
+[18Jan2025 17:26:18.195] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:football_player_zombie but it was marked as removed already
+[18Jan2025 17:26:18.246] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:psycho_zombie but it was marked as removed already
+[18Jan2025 17:26:19.493] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_doctor but it was marked as removed already
+[18Jan2025 17:26:31.105] [Server thread/DEBUG] [pointblank/]: 91105 handling client fire request
+[18Jan2025 17:26:31.105] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 924291488 to 7
+[18Jan2025 17:26:31.105] [Server thread/DEBUG] [pointblank/]: 91105 - obtained hit result in 0ms
+[18Jan2025 17:26:31.105] [Server thread/DEBUG] [pointblank/]: 91105 obtained hit results
+[18Jan2025 17:26:31.105] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@38dd5ad6
+[18Jan2025 17:26:31.107] [Server thread/DEBUG] [pointblank/]: ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=171.06, y=67.47, z=804.03] sends hit scan notification to ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=171.06, y=67.47, z=804.03]
+[18Jan2025 17:26:31.356] [Server thread/DEBUG] [pointblank/]: 91356 handling client fire request
+[18Jan2025 17:26:31.356] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 924291488 to 6
+[18Jan2025 17:26:31.356] [Server thread/DEBUG] [pointblank/]: 91356 - obtained hit result in 0ms
+[18Jan2025 17:26:31.356] [Server thread/DEBUG] [pointblank/]: 91356 obtained hit results
+[18Jan2025 17:26:31.356] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@32c13a70
+[18Jan2025 17:26:31.357] [Server thread/DEBUG] [pointblank/]: ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=171.82, y=67.22, z=804.21] sends hit scan notification to ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=171.82, y=67.22, z=804.21]
+[18Jan2025 17:26:31.731] [Server thread/DEBUG] [pointblank/]: 91731 handling client fire request
+[18Jan2025 17:26:31.731] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 924291488 to 5
+[18Jan2025 17:26:31.731] [Server thread/DEBUG] [pointblank/]: 91731 - obtained hit result in 0ms
+[18Jan2025 17:26:31.731] [Server thread/DEBUG] [pointblank/]: 91731 obtained hit results
+[18Jan2025 17:26:31.731] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7a9dc674
+[18Jan2025 17:26:31.731] [Server thread/DEBUG] [pointblank/]: ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=172.33, y=67.00, z=804.29] sends hit scan notification to ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=172.33, y=67.00, z=804.29]
+[18Jan2025 17:26:32.828] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 924291488 to 8
+[18Jan2025 17:26:40.593] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:firework_zombie but it was marked as removed already
+[18Jan2025 17:26:40.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:construction_worker_zombie but it was marked as removed already
+[18Jan2025 17:26:46.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 17:26:46.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 17:26:52.743] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:bouncer_zombie but it was marked as removed already
+[18Jan2025 17:26:52.794] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_fisherman but it was marked as removed already
+[18Jan2025 17:27:04.907] [Server thread/DEBUG] [pointblank/]: 24907 handling client fire request
+[18Jan2025 17:27:04.907] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 924291488 to 7
+[18Jan2025 17:27:04.907] [Server thread/DEBUG] [pointblank/]: 24907 - obtained hit result in 0ms
+[18Jan2025 17:27:04.907] [Server thread/DEBUG] [pointblank/]: 24907 obtained hit results
+[18Jan2025 17:27:04.907] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@e8623a8
+[18Jan2025 17:27:04.907] [Server thread/DEBUG] [pointblank/]: ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=190.78, y=70.00, z=777.44] sends hit scan notification to ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=190.78, y=70.00, z=777.44]
+[18Jan2025 17:27:05.854] [Server thread/DEBUG] [pointblank/]: 25854 handling client fire request
+[18Jan2025 17:27:05.855] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 924291488 to 6
+[18Jan2025 17:27:05.855] [Server thread/DEBUG] [pointblank/]: 25855 - obtained hit result in 0ms
+[18Jan2025 17:27:05.855] [Server thread/DEBUG] [pointblank/]: 25855 obtained hit results
+[18Jan2025 17:27:05.855] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@537a2874
+[18Jan2025 17:27:05.855] [Server thread/DEBUG] [pointblank/]: ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=194.31, y=70.00, z=779.18] sends hit scan notification to ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=194.31, y=70.00, z=779.18]
+[18Jan2025 17:27:07.406] [Server thread/DEBUG] [pointblank/]: 27406 handling client fire request
+[18Jan2025 17:27:07.406] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 924291488 to 5
+[18Jan2025 17:27:07.407] [Server thread/DEBUG] [pointblank/]: 27407 - obtained hit result in 1ms
+[18Jan2025 17:27:07.407] [Server thread/DEBUG] [pointblank/]: 27407 obtained hit results
+[18Jan2025 17:27:07.407] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4f97906d
+[18Jan2025 17:27:07.407] [Server thread/DEBUG] [pointblank/]: ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=198.82, y=70.00, z=780.72] sends hit scan notification to ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=198.82, y=70.00, z=780.72]
+[18Jan2025 17:27:08.304] [Server thread/DEBUG] [pointblank/]: 28304 handling client fire request
+[18Jan2025 17:27:08.304] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 924291488 to 4
+[18Jan2025 17:27:08.305] [Server thread/DEBUG] [pointblank/]: 28305 - obtained hit result in 1ms
+[18Jan2025 17:27:08.305] [Server thread/DEBUG] [pointblank/]: 28305 obtained hit results
+[18Jan2025 17:27:08.305] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6d5670f9
+[18Jan2025 17:27:08.305] [Server thread/DEBUG] [pointblank/]: Creating state 323fe40a-bf8b-4a33-90f2-b1a761b86fa3
+[18Jan2025 17:27:08.306] [Server thread/DEBUG] [pointblank/]: ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=200.51, y=70.00, z=780.85] sends hit scan notification to ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=200.51, y=70.00, z=780.85]
+[18Jan2025 17:27:09.205] [Server thread/DEBUG] [pointblank/]: 29205 handling client fire request
+[18Jan2025 17:27:09.205] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 924291488 to 3
+[18Jan2025 17:27:09.205] [Server thread/DEBUG] [pointblank/]: 29205 - obtained hit result in 0ms
+[18Jan2025 17:27:09.205] [Server thread/DEBUG] [pointblank/]: 29205 obtained hit results
+[18Jan2025 17:27:09.205] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@71f13e0b
+[18Jan2025 17:27:09.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Sign the contract, Big Boy]
+[18Jan2025 17:27:09.209] [Server thread/DEBUG] [pointblank/]: ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=198.02, y=70.00, z=781.34] sends hit scan notification to ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=198.02, y=70.00, z=781.34]
+[18Jan2025 17:27:12.263] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 924291488 to 8
+[18Jan2025 17:27:18.445] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_lumberjack but it was marked as removed already
+[18Jan2025 17:27:28.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_hitler but it was marked as removed already
+[18Jan2025 17:27:28.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_hitler but it was marked as removed already
+[18Jan2025 17:27:29.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:construction_worker_zombie but it was marked as removed already
+[18Jan2025 17:27:35.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:angry_zombie but it was marked as removed already
+[18Jan2025 17:27:36.393] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_on_stelts but it was marked as removed already
+[18Jan2025 17:27:41.145] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:bouncer_zombie but it was marked as removed already
+[18Jan2025 17:27:43.844] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_wolf but it was marked as removed already
+[18Jan2025 17:27:43.845] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_wolf but it was marked as removed already
+[18Jan2025 17:27:52.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:beehive_zombie but it was marked as removed already
+[18Jan2025 17:28:17.949] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[18Jan2025 17:28:25.043] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_soldier but it was marked as removed already
+[18Jan2025 17:28:25.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_soldier but it was marked as removed already
+[18Jan2025 17:28:25.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[18Jan2025 17:28:37.106] [Server thread/DEBUG] [pointblank/]: 17106 handling client fire request
+[18Jan2025 17:28:37.106] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 924291488 to 7
+[18Jan2025 17:28:37.107] [Server thread/DEBUG] [pointblank/]: 17107 - obtained hit result in 0ms
+[18Jan2025 17:28:37.107] [Server thread/DEBUG] [pointblank/]: 17107 obtained hit results
+[18Jan2025 17:28:37.107] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@13f1e46f
+[18Jan2025 17:28:37.107] [Server thread/DEBUG] [pointblank/]: ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=175.69, y=77.00, z=735.62] sends hit scan notification to ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=175.69, y=77.00, z=735.62]
+[18Jan2025 17:28:38.323] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 924291488 to 7
+[18Jan2025 17:28:41.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_lumberjack but it was marked as removed already
+[18Jan2025 17:28:41.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_lumberjack but it was marked as removed already
+[18Jan2025 17:28:51.454] [Server thread/DEBUG] [pointblank/]: 31454 handling client fire request
+[18Jan2025 17:28:51.454] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 924291488 to 6
+[18Jan2025 17:28:51.455] [Server thread/DEBUG] [pointblank/]: 31455 - obtained hit result in 0ms
+[18Jan2025 17:28:51.455] [Server thread/DEBUG] [pointblank/]: 31455 obtained hit results
+[18Jan2025 17:28:51.455] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7318f8cf
+[18Jan2025 17:28:51.455] [Server thread/DEBUG] [pointblank/]: ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=175.83, y=77.00, z=735.41] sends hit scan notification to ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=175.83, y=77.00, z=735.41]
+[18Jan2025 17:29:00.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[18Jan2025 17:29:19.745] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_cook but it was marked as removed already
+[18Jan2025 17:29:31.844] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_police but it was marked as removed already
+[18Jan2025 17:29:31.896] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_boxer but it was marked as removed already
+[18Jan2025 17:29:38.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_cook but it was marked as removed already
+[18Jan2025 17:29:45.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:pumpkin_zombie but it was marked as removed already
+[18Jan2025 17:29:54.745] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_boxer but it was marked as removed already
+[18Jan2025 17:29:54.745] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:beekeeper_zombie but it was marked as removed already
+[18Jan2025 17:29:57.694] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:construction_worker_zombie but it was marked as removed already
+[18Jan2025 17:30:18.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:baseball_bat_zombie but it was marked as removed already
+[18Jan2025 17:30:23.896] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[18Jan2025 17:30:23.896] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[18Jan2025 17:30:35.495] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[18Jan2025 17:30:35.544] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_doctor but it was marked as removed already
+[18Jan2025 17:30:35.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_scientist but it was marked as removed already
+[18Jan2025 17:30:36.256] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[18Jan2025 17:30:38.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:bouncer_zombie but it was marked as removed already
+[18Jan2025 17:31:07.595] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_painter but it was marked as removed already
+[18Jan2025 17:31:10.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:pool_tube_zombie but it was marked as removed already
+[18Jan2025 17:31:10.394] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_lumberjack but it was marked as removed already
+[18Jan2025 17:31:10.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_farmer but it was marked as removed already
+[18Jan2025 17:31:13.477] [Server thread/DEBUG] [pointblank/]: Created {vi: 1444787586, path: 323fe40a-bf8b-4a33-90f2-b1a761b86fa3, elements: {AttachmentCategory[scope]={vi: 1413066359, path: 323fe40a-bf8b-4a33-90f2-b1a761b86fa3/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1671876875, path: 323fe40a-bf8b-4a33-90f2-b1a761b86fa3/air, elements: {}}}} with stack: 1 deserteagle, tag {GeckoLibID:1L,aim:0b,ammo:6,ammox:{},fmid:[I;-520846650,310392400,-1831547144,686187342],lid:-8002138255426818141L,mid:3620863360243550771L,sa:{scope:"/"},seed:-7258097664400491999L}, elements: {AttachmentCategory[scope]={vi: 1413066359, path: 323fe40a-bf8b-4a33-90f2-b1a761b86fa3/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1671876875, path: 323fe40a-bf8b-4a33-90f2-b1a761b86fa3/air, elements: {}}}
+[18Jan2025 17:31:13.477] [Server thread/DEBUG] [pointblank/]: Created container 0
+[18Jan2025 17:31:13.477] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #0 id: 2007994258, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.477] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #0 id: 2007994258, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.477] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #0 id: 2007994258, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.477] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #0 id: 2007994258, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.477] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #0 id: 2007994258, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.477] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #0 id: 2007994258, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.477] [Server thread/DEBUG] [pointblank/]: Added attachment slot 7 to container {Container #0 id: 2007994258, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.477] [Server thread/DEBUG] [pointblank/]: Added attachment slot 8 to container {Container #0 id: 2007994258, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.477] [Server thread/DEBUG] [pointblank/]: Added attachment slot 9 to container {Container #0 id: 2007994258, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.477] [Server thread/DEBUG] [pointblank/]: Added attachment slot 10 to container {Container #0 id: 2007994258, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.477] [Server thread/DEBUG] [pointblank/]: Added attachment slot 11 to container {Container #0 id: 2007994258, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.477] [Server thread/DEBUG] [pointblank/]: Created container 1
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #1 id: 1862061318, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #1 id: 1862061318, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #1 id: 1862061318, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #1 id: 1862061318, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #1 id: 1862061318, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #1 id: 1862061318, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Created container 2
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #2 id: 990345051, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #2 id: 990345051, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #2 id: 990345051, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #2 id: 990345051, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #2 id: 990345051, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #2 id: 990345051, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Created container 3
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #3 id: 1532223104, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #3 id: 1532223104, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #3 id: 1532223104, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #3 id: 1532223104, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #3 id: 1532223104, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #3 id: 1532223104, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Created container 4
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #4 id: 1342904679, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #4 id: 1342904679, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #4 id: 1342904679, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #4 id: 1342904679, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #4 id: 1342904679, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #4 id: 1342904679, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Created container 5
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #5 id: 1486318237, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #5 id: 1486318237, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #5 id: 1486318237, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #5 id: 1486318237, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.478] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #5 id: 1486318237, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #5 id: 1486318237, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Created container 6
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #6 id: 1479172987, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #6 id: 1479172987, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #6 id: 1479172987, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #6 id: 1479172987, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #6 id: 1479172987, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #6 id: 1479172987, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Created container 7
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #7 id: 491258144, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #7 id: 491258144, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #7 id: 491258144, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #7 id: 491258144, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #7 id: 491258144, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #7 id: 491258144, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Created container 8
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #8 id: 352379855, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #8 id: 352379855, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #8 id: 352379855, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #8 id: 352379855, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #8 id: 352379855, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #8 id: 352379855, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Created container 9
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Added attachment slot 1 to container {Container #9 id: 1990242416, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Added attachment slot 2 to container {Container #9 id: 1990242416, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Added attachment slot 3 to container {Container #9 id: 1990242416, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Added attachment slot 4 to container {Container #9 id: 1990242416, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Added attachment slot 5 to container {Container #9 id: 1990242416, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Added attachment slot 6 to container {Container #9 id: 1990242416, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Updating attachment slots for inventory {vi: 1444787586, path: 323fe40a-bf8b-4a33-90f2-b1a761b86fa3, elements: {AttachmentCategory[scope]={vi: 1413066359, path: 323fe40a-bf8b-4a33-90f2-b1a761b86fa3/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1671876875, path: 323fe40a-bf8b-4a33-90f2-b1a761b86fa3/air, elements: {}}}} for container 0
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Invalid slot mapping found for key 323fe40a-bf8b-4a33-90f2-b1a761b86fa3 in inventory {vi: 1444787586, path: 323fe40a-bf8b-4a33-90f2-b1a761b86fa3, elements: {AttachmentCategory[scope]={vi: 1413066359, path: 323fe40a-bf8b-4a33-90f2-b1a761b86fa3/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1671876875, path: 323fe40a-bf8b-4a33-90f2-b1a761b86fa3/air, elements: {}}}}. Here it is: {}
+[18Jan2025 17:31:13.479] [Server thread/DEBUG] [pointblank/]: Creating a slot mapping for key 323fe40a-bf8b-4a33-90f2-b1a761b86fa3 in inventory {vi: 1444787586, path: 323fe40a-bf8b-4a33-90f2-b1a761b86fa3, elements: {AttachmentCategory[scope]={vi: 1413066359, path: 323fe40a-bf8b-4a33-90f2-b1a761b86fa3/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1671876875, path: 323fe40a-bf8b-4a33-90f2-b1a761b86fa3/air, elements: {}}}}
+[18Jan2025 17:31:13.480] [Server thread/DEBUG] [pointblank/]: Created a slot mapping for key 323fe40a-bf8b-4a33-90f2-b1a761b86fa3 in inventory {vi: 1444787586, path: 323fe40a-bf8b-4a33-90f2-b1a761b86fa3, elements: {AttachmentCategory[scope]={vi: 1413066359, path: 323fe40a-bf8b-4a33-90f2-b1a761b86fa3/air, elements: {}}, AttachmentCategory[muzzle]={vi: 1671876875, path: 323fe40a-bf8b-4a33-90f2-b1a761b86fa3/air, elements: {}}}}. Here it is: {}
+[18Jan2025 17:31:13.480] [Server thread/DEBUG] [pointblank/]: Setting item 0 in container {Container #0 id: 2007994258, items: [0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 1 deserteagle with tag {GeckoLibID:1L,aim:0b,ammo:6,ammox:{},fmid:[I;-520846650,310392400,-1831547144,686187342],lid:-8002138255426818141L,mid:3620863360243550771L,sa:{scope:"/"},seed:-7258097664400491999L}
+[18Jan2025 17:31:13.480] [Server thread/DEBUG] [pointblank/]: Setting item 1 in container {Container #0 id: 2007994258, items: [1 deserteagle, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 0 air with tag null
+[18Jan2025 17:31:13.480] [Server thread/DEBUG] [pointblank/]: Updated slot #1 in container {Container #0 id: 2007994258, items: [1 deserteagle, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } with empty item 0 air
+[18Jan2025 17:31:13.480] [Server thread/DEBUG] [pointblank/]: Changing status for slot 1 in container {Container #0 id: 2007994258, items: [1 deserteagle, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to true,
+[18Jan2025 17:31:13.480] [Server thread/DEBUG] [pointblank/]: Setting item 2 in container {Container #0 id: 2007994258, items: [1 deserteagle, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to stack 0 air with tag null
+[18Jan2025 17:31:13.480] [Server thread/DEBUG] [pointblank/]: Updated slot #2 in container {Container #0 id: 2007994258, items: [1 deserteagle, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } with empty item 0 air
+[18Jan2025 17:31:13.480] [Server thread/DEBUG] [pointblank/]: Changing status for slot 2 in container {Container #0 id: 2007994258, items: [1 deserteagle, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] } to true,
+[18Jan2025 17:31:13.480] [Server thread/DEBUG] [pointblank/]: Container active attachment count: 2 in container {Container #0 id: 2007994258, items: [1 deserteagle, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:13.480] [Server thread/DEBUG] [pointblank/]: Updated attachment slots for container {Container #0 id: 2007994258, items: [1 deserteagle, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air, 0 air] }
+[18Jan2025 17:31:19.396] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_on_stelts but it was marked as removed already
+[18Jan2025 17:31:33.495] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombified_wolf but it was marked as removed already
+[18Jan2025 17:31:33.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_hitler but it was marked as removed already
+[18Jan2025 17:31:34.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:sleepy_zombie but it was marked as removed already
+[18Jan2025 17:31:39.755] [Server thread/DEBUG] [pointblank/]: 99755 handling client fire request
+[18Jan2025 17:31:39.755] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 924291488 to 5
+[18Jan2025 17:31:39.755] [Server thread/DEBUG] [pointblank/]: 99755 - obtained hit result in 0ms
+[18Jan2025 17:31:39.755] [Server thread/DEBUG] [pointblank/]: 99755 obtained hit results
+[18Jan2025 17:31:39.755] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@4f388f6c
+[18Jan2025 17:31:39.755] [Server thread/DEBUG] [pointblank/]: ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=173.70, y=76.00, z=745.07] sends hit scan notification to ServerPlayer['d0ce3_'/85, l='ServerLevel[world]', x=173.70, y=76.00, z=745.07]
+[18Jan2025 17:31:41.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_farmer but it was marked as removed already
+[18Jan2025 17:31:41.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_farmer but it was marked as removed already
+[18Jan2025 17:31:41.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_farmer but it was marked as removed already
+[18Jan2025 17:31:41.404] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 924291488 to 8
+[18Jan2025 17:31:42.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:bouncer_zombie but it was marked as removed already
+[18Jan2025 17:31:46.346] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:angry_zombie but it was marked as removed already
+[18Jan2025 17:31:46.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 17:31:46.954] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 17:31:55.646] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_painter but it was marked as removed already
+[18Jan2025 17:31:57.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_horseman but it was marked as removed already
+[18Jan2025 17:31:57.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:zombie_runner but it was marked as removed already
+[18Jan2025 17:31:58.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:pylon_zombie but it was marked as removed already
+[18Jan2025 17:32:08.594] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:muscular_zombie but it was marked as removed already
+[18Jan2025 17:32:08.594] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:muscular_zombie but it was marked as removed already
+[18Jan2025 17:32:14.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity infectious:beehive_zombie but it was marked as removed already
+[18Jan2025 17:32:20.002] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: d0ce3_ lost connection: Disconnected
+[18Jan2025 17:32:20.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ left the game
+[18Jan2025 17:32:34.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Jan2025 17:32:34.345] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[18Jan2025 17:32:34.346] [Server thread/INFO] [luckperms/]: Starting shutdown process...
+[18Jan2025 17:32:34.347] [Server thread/INFO] [luckperms/]: Closing storage...
+[18Jan2025 17:32:34.365] [Server thread/INFO] [luckperms/]: Goodbye!
+[18Jan2025 17:32:34.368] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[18Jan2025 17:32:34.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Jan2025 17:32:34.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Jan2025 17:32:34.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Jan2025 17:32:34.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Jan2025 17:32:34.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Jan2025 17:32:34.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Jan2025 17:32:34.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 17:32:34.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 17:32:34.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Jan2025 17:32:34.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Jan2025 17:32:34.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Jan2025 17:32:34.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Jan2025 17:32:34.639] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[18Jan2025 17:32:34.639] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[18Jan2025 17:32:34.647] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[18Jan2025 17:32:34.647] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[18Jan2025 17:32:34.647] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[18Jan2025 17:32:34.647] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[18Jan2025 17:32:34.648] [Worker-Main-3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-3 shutdown
+[18Jan2025 17:32:34.648] [Worker-Main-20/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-20 shutdown
+[18Jan2025 17:32:34.648] [Worker-Main-1/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-1 shutdown
+[18Jan2025 17:32:34.649] [Server thread/INFO] [Framework/]: Unloading server configs...
+[18Jan2025 17:32:34.650] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/msx17/servidor_minecraft/config/goblintraders-entities.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2358!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23226!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23226!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23226!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23226!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23226!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23226!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23226!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23226!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23226!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23226!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.3.7-universal.jar%23290!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[18Jan2025 17:32:34.650] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[18Jan2025 17:32:34.652] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[18Jan2025 17:32:34.652] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[18Jan2025 17:32:34.652] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
