@@ -561,24 +561,6 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-01-17 21:06:22 +0000"
-    },
-    "done": true
-  },
-  "infectious:touchdown": {
-    "criteria": {
-      "touchdown": "2025-01-17 21:47:57 +0000"
-    },
-    "done": true
-  },
-  "infectious:why_so_serious": {
-    "criteria": {
-      "why_so_serious": "2025-01-17 21:05:54 +0000"
-    },
-    "done": true
-  },
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-01-17 21:03:23 +0000"
@@ -588,6 +570,24 @@
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-01-17 21:03:26 +0000"
+    },
+    "done": true
+  },
+  "infectious:why_so_serious": {
+    "criteria": {
+      "why_so_serious": "2025-01-17 21:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-01-17 21:06:22 +0000"
+    },
+    "done": true
+  },
+  "infectious:touchdown": {
+    "criteria": {
+      "touchdown": "2025-01-17 21:47:57 +0000"
     },
     "done": true
   },
